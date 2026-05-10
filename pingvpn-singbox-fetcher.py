@@ -22,8 +22,6 @@ URL: https://github.com/fsdevcom2000/pingvpn-singbox/
 """
 
 import json
-...
-import json
 import requests
 import tempfile
 import os
