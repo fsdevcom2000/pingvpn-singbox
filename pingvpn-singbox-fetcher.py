@@ -1,4 +1,28 @@
 #!/usr/bin/env python3
+
+"""
+PingVPN to sing-box proxy fetcher
+
+Automatically fetches free proxy servers from PingVPN API and generates
+sing-box config with urltest for fastest node selection.
+
+Usage:
+    python3 pingvpn-singbox-updater.py
+
+Config:
+    config.yaml in the same directory with paths, DNS and TUN settings.
+
+Requirements:
+    sing-box installed, systemd service running.
+
+Author: fsdevcom2000
+
+URL: https://github.com/fsdevcom2000/pingvpn-singbox/
+
+"""
+
+import json
+...
 import json
 import requests
 import tempfile
