@@ -1,0 +1,15 @@
+
+paths:
+  config: "/etc/sing-box/config.json"
+  log: "/var/log/singbox-updater.log"
+
+service: "sing-box"
+
+dns:
+  - { tag: "dns-local", type: "udp", server: "10.10.100.10" }
+  - { tag: "dns-backup", type: "udp", server: "10.10.100.11" }
+
+tun:
+  interface_name: "singbox0"
+  address: ["172.19.0.1/30"]
+  route_address: ["0.0.0.0/1", "128.0.0.0/1"]
