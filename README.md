@@ -83,15 +83,12 @@ curl --interface singbox0 ifconfig.me
 
 Not affiliated with PingVPN. For educational purposes. May violate PingVPN ToS.
 
-## License
-
-MIT
-
 ---
 
 **⭐ Star if useful!**
 
 ---
+
 
 # PingVPN для sing-box
 
@@ -175,10 +172,6 @@ curl --interface singbox0 ifconfig.me
 ## Дисклеймер
 
 Не связан с PingVPN. Для образования. Может нарушать условия сервиса.
-
-## Лицензия
-
-MIT
 
 ---
 
