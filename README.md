@@ -33,7 +33,7 @@ cd pingvpn-singbox
 
 ```bash
 chmod +x pingvpn-singbox-fetcher.py
-sudo python3 pingvpn-singbox-fetcher.py
+python3 pingvpn-singbox-fetcher.py
 ```
 
 #### Edit `config.yaml` with your paths
@@ -123,8 +123,8 @@ cd pingvpn-singbox
 ```
 
 ```bash
-chmod +x update_pingvpn.py
-sudo python3 update_pingvpn.py
+chmod +x pingvpn-singbox-fetcher.py
+python3 pingvpn-singbox-fetcher.py
 ```
 
 #### Отредактируйте `config.yaml`
