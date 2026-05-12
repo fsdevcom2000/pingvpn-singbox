@@ -98,7 +98,7 @@ Not affiliated with PingVPN. For educational purposes. May violate PingVPN ToS.
 
 - Полностью бесплатно
     
-- Автовыбор fastest узла через urltest
+- Автовыбор самого быстрого узла через urltest
     
 - Актуальный список серверов
     
@@ -171,7 +171,7 @@ curl --interface singbox0 ifconfig.me
 
 ## Дисклеймер
 
-Не связан с PingVPN. Для образования. Может нарушать условия сервиса.
+Не связан с PingVPN. В образовательных целях. Может нарушать условия сервиса.
 
 ---
 
