@@ -29,7 +29,6 @@ Auto-fetch free PingVPN proxies and generate sing-box config with automatic fast
 ```bash
 git clone https://github.com/fsdevcom2000/pingvpn-singbox.git
 cd pingvpn-singbox
-cp config.yaml.example config.yaml
 ```
 
 ```bash
@@ -121,7 +120,6 @@ Not affiliated with PingVPN. For educational purposes. May violate PingVPN ToS.
 ```bash
 git clone https://github.com/yourusername/pingvpn-singbox.git
 cd pingvpn-singbox
-cp config.yaml.example config.yaml
 ```
 
 ```bash
