@@ -1,5 +1,6 @@
 # PingVPN for sing-box
 
+## !!! PingVPN service is not working
 Auto-fetch free PingVPN proxies and generate sing-box config with automatic fastest node selection.
 
 ## Features
